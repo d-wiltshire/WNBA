@@ -7,3 +7,5 @@ The CSV files are included here for convenience. Please visit https://github.com
 
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/4d0d4f5b-b15b-423b-95a5-6c635e45c524)
 
+![image](https://github.com/d-wiltshire/WNBA/assets/100863488/05ef99b3-e402-45b8-b213-63d5f0e86b7f)
+* Note the outlying age values (0, -1, etc.), indicating the need for some data cleaning.
