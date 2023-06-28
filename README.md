@@ -17,6 +17,8 @@ The CSV files are included here for convenience. Please visit https://github.com
 
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/29a370fd-54b5-4fbf-8164-d72a6cb92f28)
 
+![image](https://github.com/d-wiltshire/WNBA/assets/100863488/a34f4edc-40ba-4818-9007-d77b430bd0e4)
+
 
 Next: Position by avg minutes played per game (calculated field: avg minutes per game)
 AI tools for relevant info?
