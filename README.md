@@ -21,6 +21,12 @@ The CSV files are included here for convenience. Please visit https://github.com
 
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/d0b4e0a5-79ff-4f37-a571-2a2e67057bd9)
 
+Explain player with ultrahigh AST %? Excluded from above view
+
+![image](https://github.com/d-wiltshire/WNBA/assets/100863488/77f1a484-7ea2-4c2b-9580-24c5efa7cf8b)
+
+
+
 
 Next: Position by avg minutes played per game (calculated field: avg minutes per game)
 AI tools for relevant info?
