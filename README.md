@@ -19,11 +19,13 @@ The CSV files are included here for convenience. Please visit https://github.com
 
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/a34f4edc-40ba-4818-9007-d77b430bd0e4)
 
-![image](https://github.com/d-wiltshire/WNBA/assets/100863488/d0b4e0a5-79ff-4f37-a571-2a2e67057bd9)
+![image](https://github.com/d-wiltshire/WNBA/assets/100863488/e0e3e819-a649-4442-9e1a-1f45a01ac8af)
+
 
 Explain player with ultrahigh AST %? Excluded from above view
 
-![image](https://github.com/d-wiltshire/WNBA/assets/100863488/77f1a484-7ea2-4c2b-9580-24c5efa7cf8b)
+![image](https://github.com/d-wiltshire/WNBA/assets/100863488/9390426c-b323-440d-a11b-7f0a20e889c9)
+
 
 
 
