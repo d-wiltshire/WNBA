@@ -39,3 +39,9 @@ Explain player with ultrahigh AST %? Excluded from above view
 Next: Position by avg minutes played per game (calculated field: avg minutes per game)
 AI tools for relevant info?
 
+
+Dashboard ideas: 
+1) Differentiating positions
+2) Differentiating teams
+3) Top Players
+4) Relationships between various stats (e.g. correlations between steal % and assist % - use AI?)
