@@ -30,6 +30,7 @@ Explain player with ultrahigh AST %? Excluded from above view
 
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/70330de2-3782-42e3-a909-e2b76028b03a)
 
+![image](https://github.com/d-wiltshire/WNBA/assets/100863488/a80faa62-2523-421b-9c8d-2cf034757722)
 
 
 
