@@ -35,6 +35,10 @@ Explain player with ultrahigh AST %? Excluded from above view
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/0631025d-037d-4b03-8e11-d21657491365)
 
 
+Dashboard drafts:
+![image](https://github.com/d-wiltshire/WNBA/assets/100863488/d6841b93-a700-4c44-b57c-d9a9b6b7a253)
+Add whitespace, reduce # of graphs, reduce font size, add color branding/etc., ensure all viz is relevant to dashboard
+
 
 Next: Position by avg minutes played per game (calculated field: avg minutes per game)
 AI tools for relevant info?
@@ -43,5 +47,5 @@ AI tools for relevant info?
 Dashboard ideas: 
 1) Differentiating positions
 2) Differentiating teams
-3) Top Players
+--3) Top Players
 4) Relationships between various stats (e.g. correlations between steal % and assist % - use AI?)
