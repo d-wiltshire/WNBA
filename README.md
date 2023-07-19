@@ -9,7 +9,7 @@ The CSV files are included here for convenience. Please visit https://github.com
 
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/2057c2b6-7a96-43b5-ad80-8da339d1fb77)
 
-* Note the outlying age values (0, -1, etc.), indicating the need for some data cleaning.
+* Note the outlying age values (0, -1, etc.), indicating the need for some data cleaning. Use Python/R to get statistical info re: the dataset, cleanliness of the data?
 
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/3c10f52a-e99a-48d1-9b45-f064dac9d7a9)
 
