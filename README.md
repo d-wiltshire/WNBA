@@ -36,7 +36,8 @@ Explain player with ultrahigh AST %? Excluded from above view
 
 
 Dashboard drafts:
-![image](https://github.com/d-wiltshire/WNBA/assets/100863488/d6841b93-a700-4c44-b57c-d9a9b6b7a253)
+![image](https://github.com/d-wiltshire/WNBA/assets/100863488/79289313-8a8e-4a86-82d9-0873b77386b0)
+
 Add whitespace, reduce # of graphs, reduce font size, add color branding/etc., ensure all viz is relevant to dashboard
 
 
