@@ -42,6 +42,7 @@ Dashboard drafts:
 Next dashboard: info by team, general stats, etc. 
 -- do you need the ORB graph on the player dashboard?
 -- ensure relevance, that the story is effectively told
+--use games played by player box and whisker plot plus binned games played by player 
 Add whitespace, reduce # of graphs, reduce font size, add color branding/etc., ensure all viz is relevant to dashboard
 
 
