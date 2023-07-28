@@ -38,6 +38,8 @@ Explain player with ultrahigh AST %? Excluded from above view
 Dashboard drafts:
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/e9404bb7-44e8-4f72-863c-25f6db44cf05)
 
+![image](https://github.com/d-wiltshire/WNBA/assets/100863488/6f037868-9fc8-432b-94d3-a3b08cd45ad0)
+
 
 Next dashboard: info by team, general stats, etc. 
 -- do you need the ORB graph on the player dashboard?
