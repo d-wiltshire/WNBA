@@ -6,7 +6,7 @@ The dashboards created are available <a href="https://public.tableau.com/app/pro
 
 The CSV files from Five Thirty Eight are included here for convenience. Please visit https://github.com/fivethirtyeight/WNBA-stats for more information regarding the data.
 
-Flat image files of the dashboards:
+Flat image files of the dashboards are available below:
 
 ![image](https://github.com/d-wiltshire/WNBA/assets/100863488/d74b6b1f-7690-4c53-ab45-22d78aedcf95)
 ![whitespace-small](https://github.com/d-wiltshire/WNBA/assets/100863488/7222d04a-b341-4c6c-92a6-d255dab4a3bb)
